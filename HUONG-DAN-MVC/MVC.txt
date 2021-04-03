@@ -1,0 +1,3 @@
+vào db tạo một số dữ liệu mẫu và truy cập thử trang /index.php?controller=posts
+
+/index.php?controller=posts&action=showPost&id=1
