@@ -1,3 +1,4 @@
+https://viblo.asia/p/cai-dat-ung-dung-php-thuan-su-dung-mvc-va-oop-4P856aA3lY3
 vào db tạo một số dữ liệu mẫu và truy cập thử trang /index.php?controller=posts
 
 /index.php?controller=posts&action=showPost&id=1
